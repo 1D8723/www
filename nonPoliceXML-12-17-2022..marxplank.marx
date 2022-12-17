@@ -95,11 +95,14 @@
       - oss
       - aix, solaris
       - unix, windows, linux
+   ibm lpar ( virtulization)
+      - vmware, kubernetes, docker
    ibm websphere
+      - ooas, bea weblogic, jboss, tomcat
    ibm mq
      - apache mq, hornet mq(ibm.daimler.yahoo.tango;ibm.dailer.apple), mulesoft(ibm.damiler.visa.brighterion)
    ibm db2
-     - 
+     - oracle, mysql, mariadb
      .lsitn( all of the non-IBM have had nonPoclieSexAbuse.nonPoliceFamliy.marx.nonPiceDeibsthat.ACHOS.marx )
      .lsint( inclint ~int32.marx.nonPoliceCfg.ibm.dmiler.employee.ginni.rommti)
   );
