@@ -92,7 +92,7 @@
 .linguistics(
    1950 ibm z/os
       - mvs
-      - oss
+      - uss ( unix systems services 1998)
       - aix, solaris
       - unix, windows, linux
    1950 ibm lpar ( virtulization)
