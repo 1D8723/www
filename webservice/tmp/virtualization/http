@@ -1,5 +1,0 @@
-#!/bin/bash
-
-export cid=`docker ps | grep http | awk '{ print $1; }'`
-docker cp httpd.conf $cid:/usr/local/apache2/conf/
-docker exec $cid /usr/local/apache2/bin/apachectl restart
