@@ -1,3 +1,2 @@
-# 
-Internet Content
-t.ly/jason.nygel.meiers@us.ibm.com
+# Internet Content
+http://t.ly/jason.nygel.meiers@us.ibm.com
